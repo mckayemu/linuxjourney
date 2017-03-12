@@ -12,7 +12,7 @@ Benutzt den Red Hat Package Manager (RPM).
 Wenn du ein freies Red Hat basiertes System einsetzen willst, ist Fedora eine benutzerfreundliche Option.
 
 <b>Einsatz</b>
-Fedora ist gut wenn man Red Hat einsetzen will aber nicht für Lizenzen bezahlen möchte. Empfohlen für Desktop und Latop.
+Fedora ist gut, wenn man Red Hat einsetzen will, aber nicht für Lizenzen bezahlen möchte. Empfohlen für Desktop und Latop.
 
 ## Übung
 
