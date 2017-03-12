@@ -21,7 +21,7 @@ Falls du dich für Ubuntu interessierst schaue einfach auf die Ubuntu Website un
 
 ## Quizfrage
 
-Auf welchem anderen Linux Betriebssystem basiert Ubuntu
+Auf welchem anderen Linux Betriebssystem basiert Ubuntu?
 
 ## Quiz Antwort
 
