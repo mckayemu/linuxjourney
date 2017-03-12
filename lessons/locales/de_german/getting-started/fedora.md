@@ -9,7 +9,7 @@ Das Fedora Projekt ist die Community Distribution aus dem Hause Red Hat. Fedora 
 Benutzt den Red Hat Package Manager (RPM).
 
 <b>Eigenschaften</b>
-Wenn du ein freies Red Hat basiertes System einsetzen willst, ist Fedore eine benutzerfreundliche Option.
+Wenn du ein freies Red Hat basiertes System einsetzen willst, ist Fedora eine benutzerfreundliche Option.
 
 <b>Einsatz</b>
 Fedora ist gut wenn man Red Hat einsetzen will aber nicht für Lizenzen bezahlen möchte. Empfohlen für Desktop und Latop.
