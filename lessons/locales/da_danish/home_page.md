@@ -1,51 +1,51 @@
-# Home Page
+# Startside
 
-## Grasshopper
+## Græshoppe
 
-* Getting Started - What is Linux? Get started with choosing a distribution and installation.
+* Kom i gang - Hvad er Linux? Kom i gang med at vælge en distribution og installation.
 
-* Command Line - Learn the fundamentals of the command line, navigating files, directories and more.
+* Kommandolinje - Lær grundlæggende elementer i kommandolinjen, navigere filer, mapper og meget mere.
 
-* Text-Fu - Learn basic text manipulation and navigation.
+* Tekst-Fu - Lær grundlæggende tekstmanipulation og navigation.
 
-* Advanced Text-Fu - Navigate text like a Linux spider monkey with vim and emacs.
+* Avanceret tekst-Fu - Naviger tekst som en Linux-spideraben med vim og emacs.
 
-* User Management - Learn about user roles and management.
+* Brugeradministration - Lær om brugerroller og administration.
 
-* Permissions - Learn about permission levels and modifying permissions.
+* Tilladelser - Lær om tilladelsesniveauer og ændring af tilladelser.
 
-* Processes - Learn about the running processes on the system.
+* Processer - Lær om de kørende processer på systemet.
 
-* Packages - Learn all about the dpkg, apt-get, rpm and yum package management tools.
+* Pakker - Lær alt om dpkg, apt-get, rpm og yum pakkehåndteringsværktøjer.
 
-## Journeyman
+## Svend
 
-* Devices - Learn about Linux devices and how they interact with the kernel and user space.
+* Enheder - Lær om Linux-enheder og hvordan de interagerer med kernen og brugerrummet.
 
-* The Filesystem - Learn about the Linux filesystem, the different types of filesystems, partitioning and more.
+* Filsystemet - Lær om Linux-filsystemet, de forskellige typer af filsystemer, partitionering og meget mere.
 
-* Boot the System - Learn about the stages of the Linux boot process.
+* Start systemet - Lær om stadierne af Linux-opstartsprocessen.
 
-* Kernel - The most important part of the Linux system, learn about how it works and how to configure it.
+* Kerne - Den vigtigste del af Linux-systemet, lære om, hvordan det virker, og hvordan man konfigurerer det.
 
-* Init - Learn about the different init systems, SysV, Upstart and systemd.
+* Init - Lær om de forskellige init systemer, SysV, Upstart og systemd.
 
-* Process Utilization - Learn resource monitoring with top, load averages, iostat and more!
+* Procesudnyttelse - Lær ressourceovervågning med top, load averages, iostat og meget mere!
 
-* Logging - Learn about system logs and the /var/log directory.
+* Logging - Lær om systemlogfiler og /var/log biblioteket.
 
-## Networking Nomad
+## Netværks Nomade
 
-* Network Sharing - Learn about network sharing with rsync, scp, nfs and more.
+* Netværksdeling - Lær om netværksdeling med rsync, scp, nfs og mere.
 
-* Network Basics - Learn about networking basics and the TCP/IP model.
+* Grundlæggende om netværket - Lær grundlæggende om netværk og TCP/IP-modellen.
 
-* Subnetting - Learn about subnets and how to do subnet arithmetic!
+* Subnetting - Lær om subnet og hvordan man laver subnet aritmetik!
 
-* Routing - Learn how packets are routed across networks!
+* Routing - Lær, hvordan pakker er routeret på tværs af netværk!
 
-* Network Config - Learn about network configuration using Linux tools!
+* Network Config - Lær om netværkskonfiguration ved hjælp af Linux-værktøjer!
 
-* Troubleshooting - Learn about common networking tools to help you diagnose and troubleshoot issues!
+* Fejlfinding - Lær om almindelige netværksværktøjer til at hjælpe dig med at diagnosticere og fejlfinding af problemer!
 
-* DNS - Everything and more that you wanted to know about DNS.
+* DNS - Alt og mere, som du ønskede at vide om DNS.
