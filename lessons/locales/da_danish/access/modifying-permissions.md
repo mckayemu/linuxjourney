@@ -15,7 +15,7 @@ Kommandoen ovenfor læses som dette: Skift tilladelse til myfile ved at tilføje
 <pre>$ chmod u-x myfile</pre>
 
 <b>Tilføjelse af flere tilladelsesbits på en fil</b>
-<pre> $ chmod ug + w </ pre>
+<pre> $ chmod ug + w </pre>
 
 Der er en anden måde at ændre tilladelser ved hjælp af numerisk format. Denne metode giver dig mulighed for at ændre alle tilladelser på én gang. I stedet for at bruge r, w eller x til at repræsentere tilladelser, bruger du en numerisk repræsentation for et enkelt tilladelsessæt. Så det er ikke nødvendigt at angive gruppen med g eller brugeren med u.
 
