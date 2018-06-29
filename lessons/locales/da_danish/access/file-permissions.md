@@ -1,37 +1,37 @@
-# File Permissions
+# Filtilladelser
 
-## Lesson Content
+## Lektionsindhold
 
-As we learned previously, files have different permissions or file modes. Let's look at an example:
+Som vi tidligere har lært, har filer forskellige tilladelser eller filtilstande. Lad os se på et eksempel:
 
-<pre>$ ls -l Desktop/
-drwxr-xr-x 2 pete penguins 4096 Dec 1 11:45 .
+<pre> $ ls -l Desktop/
+drwxr-xr-x 2 pete pingviner 4096 dec 1 11:45.
 </pre>
 
-There are four parts to a file's permissions. The first part is the filetype, which is denoted by the first character in the permissions, in our case since we are looking at a directory it shows <b>d</b> for the filetype. Most commonly you will see a <b>-</b> for a regular file. 
+Der er fire dele til en fils tilladelser. Den første del er filetypen, som betegnes af det første tegn i tilladelserne, da vi ser på en mappe, vises der <b>d</ b> for filetypen. Mest almindeligt ser du en <b>-</ b> for en almindelig fil.
 
-The next three parts of the file mode are the actual permissions. The permissions are grouped into 3 bits each. The first 3 bits are user permissions, then group permissions and then other permissions. I've added the pipe to make it easier to differentiate.
+De næste tre dele af filtilstanden er de faktiske tilladelser. Tilladelserne er grupperet i 3 bits hver. De første 3 bits er brugerrettigheder, derefter gruppetilladelser og derefter andre tilladelser. Jeg har tilføjet røret for at gøre det lettere at differentiere.
 
 <pre>d | rwx | r-x | r-x </pre>
 
-Each character represent a different permission: 
+Hvert tegn repræsenterer en forskellig tilladelse:
 <ul>
-<li>r: readable</li>
-<li>w: writable</li>
-<li>x: executable (basically an executable program)</li>
-<li>-: empty</li>
+<li>r: læsbar</li>
+<li>w: skrivbar</li>
+<li>x: eksekverbar (stort set et eksekverbart program)</ li>
+<li>-: tom</li>
 </ul>
 
-So in the above example, we see that the user pete has read, write and execute permissions on the file. The group penguins has read and execute permissions. And finally, the other users (everyone else) has read and execute permissions. 
+Så i ovenstående eksempel ser vi, at brugeren pete har læs, skriv og eksekver tilladelser på filen. Gruppen penguins har læs og eksekver tilladelser. Og til sidst har de andre brugere (alle andre) læs og eksekver tilladelser.
 
-## Exercise
+## Øvelse
 
-Use the ls -l command on multiple files and recite their permissions, user and group. 
+Brug kommandoen ls -l på flere filer og recitér deres tilladelser, bruger og gruppe.
 
-## Quiz Question
+## Quiz Spørgsmål
 
-What permission bit is used for executable? 
+Hvilken tilladelsesbit bruges til eksekverbar?
 
-## Quiz Answer
+## Quiz Svar
 
 x
