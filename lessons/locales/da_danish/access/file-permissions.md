@@ -31,7 +31,7 @@ Brug kommandoen ls -l på flere filer og recitér deres tilladelser, bruger og g
 
 ## Quiz Spørgsmål
 
-Hvilken tilladelsesbit bruges til eksekverbar?
+Hvilken tilladelsesbit bruges for eksekverbar?
 
 ## Quiz Svar
 
