@@ -4,7 +4,7 @@
 
 Som vi tidligere har lært, har filer forskellige tilladelser eller filtilstande. Lad os se på et eksempel:
 
-<pre> $ ls -l Desktop/
+<pre>$ ls -l Desktop/
 drwxr-xr-x 2 pete pingviner 4096 dec 1 11:45.
 </pre>
 
