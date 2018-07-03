@@ -1,6 +1,6 @@
 # Ejerskabstilladelser
 
-## Lektionindhold
+## Lektionsindhold
 
 Ud over at ændre tilladelser på filer, kan du også ændre gruppen og bruger ejerskabet af filen.
 
