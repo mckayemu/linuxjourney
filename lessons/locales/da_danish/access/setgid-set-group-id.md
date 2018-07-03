@@ -1,33 +1,33 @@
 # Setgid
 
-## Lesson Content
+## Lektionsindhold
 
-Similar to the set user ID permission bit, there is a set group ID (SGID) permission bit. This bit allows a program to run as if it was a member of that group. 
+I lighed med den indstillede bruger ID-tilladelsesbit er der et sæt gruppe-ID (SGID) tilladelsesbit. Denne bit tillader et program at køre som om det var medlem af gruppen.
 
-Let's look at one example: 
+Lad os se på et eksempel:
 
 <pre>$ ls -l /usr/bin/wall
 -rwxr-sr-x 1 root tty 19024 Dec 14 11:45 /usr/bin/wall
 </pre>
 
-We can see now that the permission bit is in the group permission set. 
+Vi kan nu se, at tilladelsesbiten er i gruppens tilladelsessæt.
 
-<b>Modifying SGID</b>
+<b>Ændring af SGID</b>
 
 <pre>$ sudo chmod g+s myfile
 $ sudo chmod 2555 myfile
 </pre>
 
-The numerical representation for SGID is 2.
+Den numeriske repræsentation for SGID er 2.
 
-## Exercise
+## Øvelse
 
-No exercises for this lesson.
+Ingen øvelser til denne lektion.
 
-## Quiz Question
+## Quiz Spørgsmål
 
-What number represents the SGID?
+Hvilket tal repræsenterer SGID?
 
-## Quiz Answer
+## Quiz Svar
 
 2
