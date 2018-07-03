@@ -1,34 +1,34 @@
-# Ownership Permissions
+# Ejerskabstilladelser
 
-## Lesson Content
+## Lektionindhold
 
-In addition to modifying permissions on files, you can also modify the group and user ownership of the file as well. 
+Ud over at ændre tilladelser på filer, kan du også ændre gruppen og bruger ejerskabet af filen.
 
-<b>Modify user ownership</b>
+<b>Rediger brugerejerskab</b>
 
 <pre>$ sudo chown patty myfile</pre>
 
-This command will set the owner of myfile to patty.
+Denne kommando vil sætte ejeren af myfile til patty.
 
-<b>Modify group ownership</b>
+<b>Rediger gruppeejerskab</b>
 
 <pre>$ sudo chgrp whales myfile</pre>
 
-This command will set the group of myfile to whales.
+Denne kommando sætter gruppen for myfile til whales.
 
-<b>Modify both user and group ownership at the same time</b>
-If you add a colon and groupname after the user you can set both the user and group at the same time.
+<b>Rediger både bruger og gruppe ejerskab på samme tid</b>
+Hvis du tilføjer et kolon og gruppenavn efter brugeren, kan du indstille både brugeren og gruppen på samme tid.
 
-<pre>$ sudo chown patty:whales myfile</pre> 
+<pre>$ sudo chown patty:whales myfile</pre>
 
-## Exercise
+## Øvelse
 
-Modify the group and user of some test files. Afterwards take a look at the permissions with ls -l.
+Rediger gruppen og brugeren af nogle testfiler. Bagefter tag et kig på tilladelserne med ls -l.
 
-## Quiz Question
+## Quiz Spørgsmål
 
-What command do you use to change user ownership?
+Hvilken kommando bruger du til at ændre bruger ejerskab?
 
-## Quiz Answer
+## Quiz Svar
 
 chown
