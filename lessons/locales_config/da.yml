@@ -19,37 +19,37 @@
 # To learn more, please read the Rails Internationalization guide
 # available at http://guides.rubyonrails.org/i18n.html.
 
-en:
+da:
   menu:
     languages:
-      lang: "Language"
-      flag: "flags/United_States_of_America.png"
+      lang: "Dansk"
+      flag: "flags/Denmark.png"
   home:
     tagline: 
-      title: "Learn the ways of Linux-fu, for free."
+      title: "Lær Linux-fu veje, gratis."
     subscribe:
-      title: "Subscribe"
-      body: "Get updates about new courses and lessons!"
+      title: "Abonner"
+      body: "Få opdateringer om nye kurser og lektioner!"
     about:
-      title: "About Us"
-      body: "The knowledge gained here today was powered by the open-source community."
-      url_name: "Contribute and Collaborate"
+      title: "Om Os"
+      body: "Den viden der er opnået her i dag var drevet af open-source fællesskabet."
+      url_name: "Bidrag og Samarbejd"
       url: "https://github.com/cindyq/linuxjourney"
     contact:
-      title: "Contact Us"
-      body: "See a bug? Any complaints? Just want to send a note?"
-      url_name: "Let us know"
+      title: "Kontakt Os"
+      body: "Ser en bug? Nogle klager? Bare lyst til at sende en note?"
+      url_name: "Fortæl os"
       url: "contact@linuxjourney.com"
   courses:
     titles:
-      exercises: "Exercises"
+      exercises: "Øvelser"
       quiz: "Quiz"
   forms:
     buttons:
-      check_answer: "Check Answer"
-      continue: "Continue"
-      return: "Return to Main Menu"
-      home: "Home"
+      check_answer: "Kontroller Svar"
+      continue: "Forsæt"
+      return: "Returner til Hovedmenuen"
+      home: "Hjem"
     messages:
-      answer_correct: "Correct answer!"
-      answer_incorrect: "Not quite, try again"
+      answer_correct: "Korrekt svar!"
+      answer_incorrect: "Ikke helt, prøv igen"
